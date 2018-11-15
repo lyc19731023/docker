@@ -1,4 +1,4 @@
-grafana/grafana:5.2.3
+
 #代理gcr.io上的镜像
 
 FROM grafana/grafana:5.2.3
